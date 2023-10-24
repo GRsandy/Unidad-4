@@ -3,7 +3,7 @@ package CalculadoraConArreglos;
 
 import java.util.Scanner;
 
-
+//Sandy
 public class CalculadoraConArreglos {
 
     
@@ -37,11 +37,11 @@ public class CalculadoraConArreglos {
                 for (int i = 0; i < Numeros.length; i++) {
                    multiplicacion = multiplicacion + Numeros [i]; 
                     }
-                    System.out.println("El reusltado de la multiplicacion es:" + multiplicacion);
+                    System.out.println("El resultado de la multiplicacion es:" + multiplicacion);
                 break;
                 
             default:
-                System.out.println(" Eliga uns ocion correcta ");
+                System.out.println(" Eliga una opcion correcta ");
          
         }
     }
